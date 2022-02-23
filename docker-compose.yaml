@@ -1,0 +1,12 @@
+version: "3.3"
+services:
+  alpine-ssh:
+    container_name: alpine-sshd
+    image: chocoearly44/alpine-rsync:latest
+    restart: always
+    environment:
+      ROOT_PASSWORD: "123456"
+    ports:
+      - "222:22"
+    volumes:
+      - "alpine-data:/data"
