@@ -50,16 +50,10 @@ services:
 Alpine Rsync is based on [docker-alpine-ssh](https://github.com/devdotnetorg/docker-alpine-ssh) project by [devdotnetorg](https://github.com/devdotnetorg).
 
 ## Bug reporting
-If you encounter any bugs while using the tools please report them in the [Issues Section][issues-url] on GitHub Repository.
+If you encounter any bugs while using the image please report them in the [Issues Section][issues-url] on GitHub Repository.
 
 ## Support
-You can receive additional support in an official Discord Server or in a [Discussions Section][discussions-url] here on GitHub.
-
-<div align="center">
-
-  [![Widget for the TSL Support guild](https://discord.com/api/guilds/807666401300316160/widget.png?style=banner1)](https://discord.gg/Wa24skGscR)
-
-</div>
+You can receive additional support in a [Discussions Section][discussions-url] here on GitHub.
 
 [contributors-shield]: https://img.shields.io/github/contributors/chocoearly44/alpine-rsync.svg?style=for-the-badge
 [forks-shield]: https://img.shields.io/github/forks/chocoearly44/alpine-rsync.svg?style=for-the-badge
