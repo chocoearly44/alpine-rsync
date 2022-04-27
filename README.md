@@ -50,7 +50,7 @@ services:
 Alpine Rsync is based on [docker-alpine-ssh](https://github.com/devdotnetorg/docker-alpine-ssh) project by [devdotnetorg](https://github.com/devdotnetorg).
 
 ## Bug reporting
-If you encounter any bugs while using the image please report them in the [Issues Section][issues-url] on GitHub Repository.
+If you encounter any bugs while using Alpine Rsync please report them in the [Issues Section][issues-url] on GitHub Repository.
 
 ## Support
 You can receive additional support in a [Discussions Section][discussions-url] here on GitHub.
